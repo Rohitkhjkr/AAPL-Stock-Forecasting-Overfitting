@@ -48,4 +48,5 @@ This framework is designed to examine whether apparent forecasting performance c
 - The results do not provide strong evidence of reliable next-day AAPL return predictability.
 - A lower forecasting error alone is not sufficient evidence of a genuine financial signal.
 
-# Code: https://www.kaggle.com/code/rohitkumarkhajekar/aapl-notebook
+# Code: 
+https://www.kaggle.com/code/rohitkumarkhajekar/aapl-notebook
